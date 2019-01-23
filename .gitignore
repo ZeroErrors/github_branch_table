@@ -1,0 +1,12 @@
+# Rust
+/target
+**/*.rs.bk
+
+.env
+
+# IntelliJ Idea
+*.iml
+.idea/
+
+# Cache data
+*.json
