@@ -4,6 +4,9 @@
 
 .env
 
+# Ignore lock file to allow builds to use the latest patch versions
+Cargo.lock
+
 # IntelliJ Idea
 *.iml
 .idea/
